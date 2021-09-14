@@ -1,4 +1,4 @@
-# videosdk-letsmeet
+# Let's Meet!
 HackSDK : Project by Brute Force
 
 ### TEAM MEMBERS:
