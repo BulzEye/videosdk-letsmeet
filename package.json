@@ -1,0 +1,23 @@
+{
+  "name": "videosdk-letsmeet",
+  "version": "1.0.0",
+  "description": "HackSDK Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thekhurapaatimind/videosdk-letsmeet.git"
+  },
+  "keywords": [
+    "rtc"
+  ],
+  "author": "\"Abhinav Yadav, Omkar Shirgaonkar, Anushka Nile, Subha V Gopal\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thekhurapaatimind/videosdk-letsmeet/issues"
+  },
+  "homepage": "https://github.com/thekhurapaatimind/videosdk-letsmeet#readme"
+}
